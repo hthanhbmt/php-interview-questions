@@ -1,0 +1,4 @@
+Middleware là một thuật ngữ chung cho phép các phần mềm, dịch vụ và các bộ phận của hệ thống giao tiếp và quản lý dữ liệu. 
+Nó là phần mềm xử lý giao tiếp giữa các thành phần và input/output, vì vậy các nhà phát triển có thể tập trung vào mục đích cụ thể của ứng dụng của họ.
+
+#trong laravel có thể dùng Auth::viaRequest để giao tiếp với server khác
